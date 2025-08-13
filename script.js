@@ -2,7 +2,7 @@ new Vue({
     el: '#globais',
     data: {
         titulo_1:'Home',
-        boasVindas:'Seja Bem-vindo(a) ao Sistema de Suporte da Funbosque!',
+        boasVindas:'Seja Bem-vindo(a) ao Sistema de Suporte da Escola_bosque!',
         nome_dti:'DTI (Departamendo de Tecnologia da Informação)',
         conheca:'Conheça',
         
@@ -19,5 +19,6 @@ new Vue({
 
     }
 });
+
 
 
